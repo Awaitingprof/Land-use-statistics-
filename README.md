@@ -41,7 +41,7 @@ I performed necessary data cleaning operations, such as handling missing values,
 ### Data Modeling
 I created relationships between different tables within the dataset, enabling me to combine and analyze data from multiple sources. For example, I established relationships between the country names and their corresponding land use statistics.
 ### Visualization Design
-I designed a variety of visualizations to explore different aspects of the land use statistics. These visualizations included:
+I designed a variety of visualizations to explore different aspects of land use statistics. These visualizations included:
 #### Bar Charts
 I created bar charts to compare the cultivated land area, arable land area, permanent crops area, and other land area across different countries. This allowed me to identify the countries with the highest and lowest values in each category.
 #### Pie Charts
