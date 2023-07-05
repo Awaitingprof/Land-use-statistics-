@@ -2,6 +2,8 @@
 This project aims to provide comprehensive land use statistics by country, offering valuable insights into the distribution and utilization of land across the globe. The dataset includes various indicators related to cultivated land, arable land, permanent crops, other land, and total area, enabling users to explore and analyze land use patterns and trends over time.
 ![land image](https://github.com/Awaitingprof/EnglishPremier_league/assets/102805397/4bc9cfb6-0841-44a1-8eb3-478a647ae500)
 
+![Land](https://github.com/Awaitingprof/EnglishPremier_league/assets/102805397/0d6b16ac-0283-4eef-8c1a-da6bdc9e2ee7)
+
 ## Dataset
 The dataset used in this project  was source from Kaggle, and it contains the following columns:
 1.	Country: The name of the country.
@@ -42,4 +44,5 @@ Here's a step-by-step guide on how I utilized Power BI to visualize the land use
 #### Heatmaps: I employed heatmaps to visualize the temporal patterns of land use statistics. By mapping the changes in cultivated land area, arable land area, permanent crops area, and other land area over time, I could identify trends and fluctuations in land use practices.
 #### Interactive Maps: Power BI allows the integration of interactive maps, where I could overlay land use statistics onto a geographical map. This visualization technique provided a spatial perspective, allowing me to identify regional disparities in land use and explore correlations with geographical features.
 ### Dashboard Creation: I organized the visualizations into a comprehensive dashboard, enabling users to navigate through the different insights easily. The dashboard acted as a central hub, providing an overview of land use statistics and allowing for deeper exploration through interactive filters and slicers.
+By utilizing Power BI or any other visualization tool, you can create engaging and informative visualizations that enhance your understanding of land use statistics. Remember, the choice of visualization tool depends on your preference, familiarity, and the specific insights you aim to derive from the data.
 
